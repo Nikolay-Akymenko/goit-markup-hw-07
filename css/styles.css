@@ -242,7 +242,7 @@ img {
 
 /* Section feature (Особености)*/
 
-.feature__section {
+.feature-section {
     padding-bottom: 0;
 }
 .feature__list{
@@ -332,7 +332,7 @@ img {
 
 /* Team (Наша команда) */
 
-.team__section {
+.team-section {
     background-color: #F5F4FA;
     
 }
